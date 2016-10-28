@@ -1,0 +1,42 @@
+# Site settings
+title: Yu-Shiang Lin
+description: '林郁翔'
+url: 'http://coldfunction.github.io'
+baseurl: '/'
+google_analytics: ''
+disqus_shortname: 'coldfunction'
+
+author:
+  name: 'Yu-Shiang Lin'
+  email: coldfunction@gmail.com
+  twitter_username: coldfunction
+  facebook_username: coldfunction
+  spotify_username: coldfunction
+  flickr_username: coldfunction
+  github_username:  coldfunction
+  linkedin_username:  coldfunction
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+future: true
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate', 'jekyll-gist']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
