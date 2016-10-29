@@ -5,8 +5,6 @@ group: navigation
 ---
 
 
-
- <h3> Projects </h3>  <!-- for create a heading --> 
 <!-- iterate through all tags on the site --> 
   <!-- for each tag, create an anchor by using the tag name as an id --> 
   <div >  
@@ -40,7 +38,7 @@ group: navigation
 {% for post in site.posts %} 
 
 {% for tag in post.tags %}
-       	{% if tag == "devops" %}
+       	{% if tag == "projects" %}
 
 
 <div>
