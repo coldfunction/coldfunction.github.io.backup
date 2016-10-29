@@ -26,10 +26,13 @@ the CUDA ClustalW v1.0 can achieve about 33x speedups by comparing to ClustalW v
 * Base on clustalW 2.0
 
 
-[GitHub link](https://github.com/coldfunction/CUDA-clustalW)
 		
 
-### Papaers
+### Papers
  * Journal
-  * Che-Lun Hung, `Yu-Shiang Lin`, Chun-Yuan Lin, Yeh-Ching Chung, Yi-Fang Chung, “CUDA ClustalW: An efficient parallel algorithm for progressive multiple sequence alignment on Multi-GPUs”, CBAC: 58-62 (2015).
+   * Che-Lun Hung, `Yu-Shiang Lin`, Chun-Yuan Lin, Yeh-Ching Chung, Yi-Fang Chung, “CUDA ClustalW: An efficient parallel algorithm for progressive multiple sequence alignment on Multi-GPUs”, CBAC: 58-62 (2015).
 
+
+
+
+[GitHub link](https://github.com/coldfunction/CUDA-clustalW)
