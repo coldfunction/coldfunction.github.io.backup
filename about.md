@@ -32,6 +32,8 @@ I received my B.S. and M.S. in Department of Computer Science and Information En
 
 ### CUDA lecturer
 * Teaching CUDA for industry and academic since 2010 (研碩、鴻鵠、佳儀國際股份有限公司CUDA課程授課講師)
+
+### Tsinghua University, Beijing, China
 * A Teaching Assistant of Parallel Programming in 2013 & 2015 summer.
 
 ### Computer Center of Chang Guang University (2007~2010)
