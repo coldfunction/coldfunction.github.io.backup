@@ -68,7 +68,7 @@ I received my B.S. and M.S. in Department of Computer Science and Information En
 
 
 ### Book
-* CUDA 輕鬆上 ，新世代GPU應 技術: 俊淵、周嘉奕、 郁翔、李昇達等 合著 (ISBN: 9572239171)
+* CUDA 輕鬆上手 - 新世代GPU應用技術: 林俊淵、周嘉奕、林郁翔、李昇達等 合著 (ISBN: 9572239171)
 
 ## AWARDS & CERTIFICATES
 * Certificate Of NVIDIA CUDA Engineers (Certificate No. : 201309-01-0003 ).
